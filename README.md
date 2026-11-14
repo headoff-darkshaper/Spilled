@@ -203,4 +203,4 @@ This repository serves as the official landing page for Spilled!. The software i
 **Get the most recent version of Spilled! today!**
 
 ---
-**Last updated:** 2026-11-14 01:53:56 UTC
+**Last updated:** 2026-11-14 08:17:53 UTC
